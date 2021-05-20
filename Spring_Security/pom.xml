@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-web</artifactId>
-			<version>4.2.3.RELEASE</version>
+			<version>5.3.0.RELEASE</version>
 		</dependency>
 		
 		<!-- Spring Security Config 4 Dependency -->
